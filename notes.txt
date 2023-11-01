@@ -1,0 +1,11 @@
+- lets break up by text by character 
+    - all capitalized or three letters first one capitalized with a .
+
+    - do this for 1725 and 1728
+
+- data clean as needed
+
+- need to then compare number of strings (character by dialogue) for both texts
+- compare string by string get a similarity score
+    - set a value between 0 and 1 as a cutoff either accepted as similar or different
+    - if different we want to identify in Popes text the corresponding lines.
